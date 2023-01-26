@@ -7,7 +7,7 @@ Calculator was an app I developed to take my first steps with Android developmen
 <!-- You can add more screenshots here if you like -->
 <img src="https://user-images.githubusercontent.com/86428049/214728884-85b993e9-b37c-4225-9a43-faf513e0a8c6.png" width="260">&emsp;<img src="https://user-images.githubusercontent.com/86428049/214728942-7ce9a943-8462-40b9-aae7-bfa565f58d56.png" width="260">&emsp;<img src="https://user-images.githubusercontent.com/86428049/214728993-adc645ce-642c-4d97-a20e-32f2f3da9ae3.png" width="260">
 
-## Tecnologias
+## Technologies
 * Kotlin
 * Activity para host de telas
 * ViewGroup
@@ -33,7 +33,7 @@ Levi Fonseca (follow me on [Linkedin](https://www.linkedin.com/in/levi-fonseca-2
 ```
 The MIT License (MIT)
 
-Copyright (c) 2021 Levi Fonseca
+Copyright (c) 2023 Levi Fonseca
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
