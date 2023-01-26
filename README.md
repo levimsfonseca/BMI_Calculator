@@ -17,10 +17,10 @@ Calculator was an app I developed to take my first steps with Android developmen
     - TextView
     - EditText
     - Button
-- Toast para display de mensagens
-- Intent Explicita para abrir a segunda Activity
-- FindViewById para recuperar components de UI
-- String resource para concatenação de textos
+- Toast for message display
+- Intent Explicit to open the second Activity
+- FindViewById to retrieve UI components
+- String resource for text concatenation
 
 
 ### TO-DO
