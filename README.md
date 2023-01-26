@@ -1,10 +1,11 @@
 # BMI(Body Mass Index) Calculator
-Calculator was an app I developed to take my first steps with Android development. I participated in the 10D challenge in the DevSpace community and made it out of from scratch.
+Calculator was an app I developed to take my first steps with Android development. I've been participating in the 10D challenge (DevSpace community) and made it out of from scratch.
+
 
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/result/image1.png" width="260">&emsp;<img src="/result/image2.png" width="260">&emsp;<img src="/result/image3.png" width="260">
+<img src="https://user-images.githubusercontent.com/86428049/214728884-85b993e9-b37c-4225-9a43-faf513e0a8c6.png" width="260">&emsp;<img src="https://user-images.githubusercontent.com/86428049/214728942-7ce9a943-8462-40b9-aae7-bfa565f58d56.png" width="260">&emsp;<img src="https://user-images.githubusercontent.com/86428049/214728993-adc645ce-642c-4d97-a20e-32f2f3da9ae3.png" width="260">
 
 ## Tecnologias
 * Kotlin
