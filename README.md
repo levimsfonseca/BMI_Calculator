@@ -9,7 +9,7 @@ Calculator was an app I developed to take my first steps with Android developmen
 
 ## Technologies
 * Kotlin
-* Activity para host de telas
+* Activity for screem hosts
 * ViewGroup
     * RelativeLayout
     * LinearLayout
