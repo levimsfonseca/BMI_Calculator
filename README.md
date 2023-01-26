@@ -13,7 +13,7 @@ Calculator was an app I developed to take my first steps with Android developmen
 * ViewGroup
     * RelativeLayout
     * LinearLayout
-- Components de UI
+- UI Components
     - TextView
     - EditText
     - Button
